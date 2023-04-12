@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tutor.unity
+    guid: 637871939a632b844a57b63f11d40785
+  - enabled: 1
+    path: Assets/Scenes/Marker.unity
+    guid: 66f01ba186c8763488c157d955c6a576
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: aa98ddcdca3730a4cb6168df96816fb0
+  - enabled: 1
+    path: Assets/Scenes/Exit.unity
+    guid: 5cec0c2d1f958c64ab5dc45d25aabf99
+  - enabled: 1
+    path: Assets/Scenes/ARCam.unity
+    guid: 11d5b5374bed5864c9ab40238b293f10
+  m_configObjects: {}

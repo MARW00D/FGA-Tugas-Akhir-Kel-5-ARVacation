@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Fusion_Marker" size="300.000000 201.769913" />
+    <ImageTarget name="JBR_Marker" size="300.000000 300.000000" />
+    <ImageTarget name="MGL_Marker" size="300.000000 300.000000" />
+    <ImageTarget name="BNY_Marker" size="300.000000 300.000000" />
+    <ImageTarget name="MKS_Marker" size="300.000000 300.000000" />
+    <ImageTarget name="TGR_Marker" size="300.000000 300.000000" />
+    <ImageTarget name="MLG_Marker" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
